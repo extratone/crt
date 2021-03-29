@@ -1,12 +1,12 @@
 title: words from the night
-email: serenadantingchen@gmail.com
+email: davidblue@extratone.com
 description: > 
-  An experiment in a moment of boredom
-baseurl: "/night"
-url: https://heisenburger.github.io/night/
+  An experiment in a moment of boredom (DUPLICATE OF @heisenburger/night)
+baseurl: "/crt"
+url: https://extratone.github.io/crt/
 #url: "lab.serena.nz/wordsfromthenight"
-twitter_username: sereeena
-github_username:  heisenburger
+twitter_username: NeoYokel
+github_username:  extratone
 
 # Build settings
 markdown: kramdown
@@ -16,5 +16,3 @@ exclude:
 sass:
   sass_dir: _sass
   style: compressed
-
-theme: jekyll-theme-midnight
