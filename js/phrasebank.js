@@ -117,3 +117,4 @@ function swapPhrase(bank) {
   });
   setFont();
 }
+
